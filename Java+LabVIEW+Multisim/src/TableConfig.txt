@@ -1,0 +1,23 @@
+0	NEW	DELETE	EXIT	SAVE
+1	A - O	0 - 9 + - / * =	P - Z	SYMBOLS	
+11	A,B,C,D	E,F,G,H	I,J,K,L	M,N,O,EXIT
+111	A	B	C	D
+112	E	F	G	H
+113	I	J	K	L
+114	M	N	O	EXIT
+12	0,1,2,3	4,5,6,7	8,9,+,-	/,*,=,EXIT
+121	0	1	2	3
+122	4	5	6	7
+123	8	9	+	-
+124	/	*	=	EXIT
+13	P,Q,R,S	T,U,V,X	Y,Z,Á,W	É,Í,Ó,EXIT
+131	P	Q	R	S
+132	T	U	V	X
+133	Y	Z	Á	W
+134	É	Í	Ó	EXIT
+14	". , , , ; , ?"	"!,',"",("	),%,@,_	:,&,[SPACE],EXIT
+141	.	,	";"	?
+142	!	  '	""""	(
+143	)	%	@	_
+144	:	&	[SPACE]	EXIT
+411	EMAIL MARIA C.	SPEAK	EMAIL MARIA J.	SAVE ON PC
