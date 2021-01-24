@@ -1,0 +1,23 @@
+ULTIBOARD DRILL REPORT
+
+Design: Analog_EOG
+
+DRILL FILE SETTINGS
+Excellon 2, Absolute, Inch, 2.4 
+
+
+DEFINITION COPPER LAYERS
+Top Stack-up 1
+Copper Top
+Copper Bottom
+
+
+--------------------------------------------------------------------
+
+DRILLFILE                                       LAMINATION
+Analog_EOG - Top Stack-up 1-Copper Bottom.drl   Top Stack-up 1 .. Copper Bottom
+
+TOOL     SIZE   TYPE  COUNT
+   1   0.0236    PTH      1
+   2   0.0350    PTH     28
+   3   0.0354    PTH     18
